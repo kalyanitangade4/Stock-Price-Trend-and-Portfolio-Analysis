@@ -14,6 +14,7 @@ The analysis uses five years of daily price data (Feb 2013 – Feb 2018) across 
 | Time | Date |
 | Benchmark |Benchmark daily return |
 | Target metrics (derived) | Daily return, annualized return, volatility, Sharpe ratio |
+
 ~10,072 records (8 tickers × 1,259 trading days each), with no missing values or duplicate rows.
 
 ## 🎯 Objectives
