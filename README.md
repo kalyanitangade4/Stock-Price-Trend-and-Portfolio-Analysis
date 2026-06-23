@@ -7,7 +7,13 @@ Picking individual stocks is easy to judge in hindsight, but investors rarely as
 
 ## 🗂️ Dataset
 The analysis uses five years of daily price data (Feb 2013 – Feb 2018) across 8 stocks spanning six sectors, plus a market benchmark return series, containing fields such as:
-CategoryExample FieldsIdentifiersName (ticker), SectorPrice DataOpen, High, Low, Close, VolumeTimeDateBenchmarkBenchmark daily returnTarget metrics (derived)Daily return, annualized return, volatility, Sharpe ratio
+| Category | Example Fields |
+|---|---|
+| Identifiers | Name (ticker), Sector | 
+| PriceData | Open, High, Low, Close, Volume | 
+| Time | Date |
+| Benchmark |Benchmark daily return |
+| Target metrics (derived) | Daily return, annualized return, volatility, Sharpe ratio |
 ~10,072 records (8 tickers × 1,259 trading days each), with no missing values or duplicate rows.
 
 ## 🎯 Objectives
