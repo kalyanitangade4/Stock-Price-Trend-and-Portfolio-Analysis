@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (uncomment if you don't want to commit the dataset)
+# data/raw/
+# *.csv
+
+# Power BI temp/lock files
+~$*.pbix
+*.pbix.bak
+
+# Secrets / config (API keys for stock data providers)
+.env
+api_keys.py
+config.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
